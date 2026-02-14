@@ -17,6 +17,7 @@ public class Dispatcher {
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
-		Controller.waitForQuit(scanner);
+		//Controller.waitForQuit(scanner);
 	}
+
 }
