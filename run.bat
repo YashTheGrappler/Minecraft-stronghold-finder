@@ -1,3 +1,4 @@
 @echo off
-java -jar dist\StrongholdFinder.jar
+java -jar dist\strongholdFinder.jar
 pause
+
