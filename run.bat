@@ -1,3 +1,3 @@
 @echo off
-java -jar dist\Dispatcher.jar
+java -jar dist\StrongholdFinder.jar
 pause
